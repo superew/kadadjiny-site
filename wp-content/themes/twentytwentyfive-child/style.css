@@ -7,3 +7,11 @@ Version: 0.1
 */
 @import url("../twentytwentyfive/style.css");
 
+.contact-us-form input#name {width: 38%;float: left; border-radius: 5px; height: 25px;}
+
+.contact-us-form input#email {width: 57%; float: right; border-radius: 5px; height: 25px;
+}
+
+.contact-us-form input#message,.contact-us-form input#subject 
+{width: 98%; border-radius: 5px; height: 25px;
+}
